@@ -19,7 +19,7 @@
 
     <TextView
         android:id="@+id/foodMarket"
-        style="@style/TextView.PoopinsNormal32sp020202"
+        style="@style/TextView.PoopinsNormal32sp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="37dp"
