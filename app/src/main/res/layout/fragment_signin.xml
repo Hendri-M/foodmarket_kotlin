@@ -22,6 +22,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="6dp"
+        android:inputType="textEmailAddress"
         android:background="@drawable/ic_inputfield_border"
         android:hint="Type your Email Address"
         android:padding="10dp"/>

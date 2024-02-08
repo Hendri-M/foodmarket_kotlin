@@ -27,7 +27,7 @@
 
     <style name="EditText.PoppinsNormal14spInput">
         <item name="android:fontFamily">@font/poppins</item>
-        <item name="android:textColor">#8D92A3</item>
+        <item name="android:textColor">#020202</item>
         <item name="android:textSize">14sp</item>
     </style>
 
