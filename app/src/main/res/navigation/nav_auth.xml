@@ -9,12 +9,18 @@
         android:name="com.tutor.foodmarketkotlin.ui.auth.signin.SigninFragment"
         tools:layout="@layout/fragment_signin">
 
+        <action
+            android:id="@+id/action_signUp"
+            app:destination="@id/fragmentSignUp" />
     </fragment>
 
     <fragment android:id="@+id/fragmentSignUp"
         android:name="com.tutor.foodmarketkotlin.ui.auth.signup.SignUpFragment"
         tools:layout="@layout/fragment_sign_up">
 
+        <action
+            android:id="@+id/action_signUpAddress"
+            app:destination="@id/fragmentSignUpAddress"/>
     </fragment>
 
     <fragment android:id="@+id/fragmentSignUpAddress"
